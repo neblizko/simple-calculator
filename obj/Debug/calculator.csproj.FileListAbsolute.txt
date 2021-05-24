@@ -1,0 +1,6 @@
+D:\simple-calculator\bin\Debug\calculator.exe.config
+D:\simple-calculator\bin\Debug\calculator.exe
+D:\simple-calculator\bin\Debug\calculator.pdb
+D:\simple-calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+D:\simple-calculator\obj\Debug\calculator.exe
+D:\simple-calculator\obj\Debug\calculator.pdb
